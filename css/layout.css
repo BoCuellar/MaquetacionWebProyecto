@@ -46,7 +46,7 @@ nav > label {
 
 .menuOculto ul li a {
   color: var(--rojo);
-  padding: 5px 0;
+  padding: 20px 0;
   text-align: center;
   display: block;
 }
